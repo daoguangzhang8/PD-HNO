@@ -1,0 +1,27 @@
+# Deep Learning Weights (深度学习权重)
+*.pth
+*.pt
+*.ckpt
+*.png
+
+# Geophysical & Array Data (物理模型与矩阵数据)
+*.npy
+*.npz
+*.mat
+*.h5
+*.segy
+*.su
+*.bin
+
+# Logs and Caches (日志与缓存)
+__pycache__/
+runs/
+logs/
+.ipynb_checkpoints/
+nohup*.out
+*.pyc
+
+# Training Outputs (训练输出目录)
+output/
+output*/
+res.png

@@ -1,0 +1,17 @@
+# Physics-Informed DeepONet
+# Python == 3.12.7
+# CUDA 12.8 (nvidia-cu12 series)
+
+# Deep Learning (已随conda环境安装)
+# torch==2.8.0
+
+# Scientific Computing (已随conda环境安装)
+# numpy==2.0.2
+# scipy==1.13.1
+
+# Visualization (已随conda环境安装)
+# matplotlib==3.9.4
+
+# ---------- 以下需要额外安装 ----------
+h5py>=3.8
+tqdm>=4.60
